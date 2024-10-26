@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agathi-labs
 - 👀 I’m interested in block chain
-- 🌱 I’m currently learning abouut unreal engine and blender 
+- 🌱 I’m currently learning about and blender 
 - 💞️ I’m looking to collaborate on some project
 - ⚡ Fun fact: do you like cookies(its not about cookkies you think bro)
 
