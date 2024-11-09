@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on some project
 - ⚡ Fun fact: do you like cookies(its not about cookkies you think bro)
 - Reach me:agathibala77@gmail.com
+- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 <img src="https://media.giphy.com/media/50d1MLdeUVr2l0yhsB/giphy.gif">
 <!---
 Agathi-labs/Agathi-labs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
